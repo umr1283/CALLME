@@ -1,5 +1,7 @@
 # CALLME, a tool for detection of Clonal Mosaic Events (CME) in a parallelized fashion
 
+Author: Boris Skrobek
+
 ## Introduction
 	
 We have developed a software that allows to perform all steps of CME detection analysis, from Beadstudio exported raw data to CME calling and plotting. 
